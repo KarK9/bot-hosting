@@ -1,12 +1,16 @@
 module.exports = [
+    
+    
   // normal spoilers
   "double jump", "wall jump", "super dash", "wallhop", "dash",
+  //others
+  "whispering root", "dream tree", "trial of the warrior", "trial of the conqueror", "trial of the fool",
   // abilities
   "mantis claw", "mantis claws", "isam's tear", "isma tear", "isma tears", "isma's tears", "shade cloak", "awoken dream nail", "dream nail", "monarch wings", "wings", "dreamgate", "dream gate", "mothwing cloak", "mothwing cloak", "mothwings cloak", "mothwings cloaks", "crystal heart", "crystal hearts", "world sense",
   // spells
   "focus", "double focus", "vengeful spirit", "vengeful", "desolate dive", "dive", "desolate", "howling wraiths", "wraiths", "shade soul", "shade", "descending dark", "descending", "abyss shriek", "shriek", "spells", "fireball",
   // nail/arts
-  "cyclone slash", "dash slash", "great slash", "old nail", "sharpened nail", "channelled nail", "coiled nail", "pure nail", "upgrade nail", "upgraded nail",
+  "cyclone slash", "dash slash", "great slash", "old nail", "sharpened nail", "channelled nail", "coiled nail", "pure nail", "upgrade nail", "upgraded nail", "nail upgrade", "nail upgraded", "nail master", "nail sage", "nail 0", "nail 1", "nail 2", "nail 3", "nail 4",
   // items
   "city crest", "elegant key", "king's brand", "kings brand", "king brand", "love key", "shopkeeper's key", "shopkeeper key", "simple key", "the collector's map", "collector's map", "the collector map", "collector map", "delicate flower", "godtuner", "hunter's journal", "hunters journal", "hunter journal", "hunter's mark", "hunters mark", "hunter mark", "lumafly lantern", "lantern", "map and quill", "quill", "ruined flower", "broken flower", "flower broke", "flower broken", "tram pass", "tram", "arcane egg", "hallownest seal", "king's idol", "kings idol", "king idol", "rancid egg", "wanderer's journal", "wanderer journal", "wanderers journal", "mask shard", "mask shards", "mask", "pale ore", "pale ores", "salubra's blessing", "salubras blessing", "salubra blessing", "vessel fragment", "vessel fragments", "vessel", 
   // areas
@@ -18,10 +22,10 @@ module.exports = [
   // charms
   "wayward compass", "wayward", "compass", "gathering swarm", "stalwart shell", "stalwart", "soul catcher", "shaman stone", "shaman", "soul eater", "dashmaster", "dash master", "sprintmaster", "sprint master", "grubsong", "grub song", "grubberfly's elegy", "grubberfly elegy", "grubberfly", "elegy", "fragile", "fragile heart", "unbreakable", "unbreakable heart", "fragile greed", "greed", "unbreakable greed", "fragile strength", "unbreakable strength", "spell twister", "twister", "steady body", "steady", "heavy blow", "quick slash", "longnail", "long nail", "mark of pride", "fury", "fury of the fallen", "thorns of agony", "baldur shell", "flukenest", "defender's crest", "defender crest", "glowing womb", "quick focus", "deep focus", "lifeblood heart", "lifeblood core", "lifeblood", "joni's blessing", "joni blessing", "hiveblood", "hive blood", "spore shroom", "spore", "sharp shadow", "shape of unn", "nailmaster's glory", "nailmaster's", "weaversong", "weaver song", "dream wielder", "dreamshield", "grimmchild", "carefree melody", "kingsoul", "king soul", "void heart", "voidheart", "notch", "notches", "overcharm", "overcharmed",
   // pantheons
-  "godhome", "pantheon", "pantheons", "godseeker mode", "bindings", "binding", "land of storms", "land of storm", "p1", "p2", "p3", "p4", "p5", "hall of gods", "hall of god", "ascended", "radiant",
+  "godhome", "pantheon", "pantheons", "godseeker mode", "bindings", "binding", "land of storms", "land of storm", "p1", "p2", "p3", "p4", "p5", "hall of gods", "hall of god", "ascended", "radiant", "pantheon of the sage", "pantheon of the knight", "pantheon of hallownest", 
   // enemies, journal
   "crawlid", "vengefly", "gruzzer", "tiktik", "aspid hunter", "aspid mother", "aspid hatchling", "goam", "wandering husk", "husk hornhead", "leaping husk", "husk bully", "husk warrior", "husk guard", "entombed husk", "false knight", "maggot", "menderbug", "lifeseed", "mender bug", "baldur", "elder baldur", "mosscreep", "mossfly", "mosskin", "volatile mosskin", "fool eater", "squit", "obble", "gulka", "maskfly", "moss charger", "moss knight", "moss vagabond", "durandoo", "duranda", "aluba", "charged lumafly", "uoma", "ooma", "ambloom", "fungling", "fungoon", "sporg", "fungified husk", "shrumeling", "shrumal warrior", "shrumal ogre", "mantis youth", "mantis warrior", "husk sentry", "heavy sentry", "winged sentry", "lance sentry", "mistake", "folly", "soul twister", "husk dandy", "cowardly husk", "gluttonous husk", "gorgeous husk", "great husk sentry", "belfly", "pilflip", "hwurmp", "bluggsac", "flukefey", "flukemon", "flukemunga", "shardmite", "glimback", "crystal hunter", "crystal crawler", "husk miner", "crystallised husk", "furious vengefly", "volatile gruzzer", "violent husk", "slobbering husk", "dirtcarver", "carver hatcher", "garpede", "corpse creeper", "deepling", "deephunter", "little weaver", "stalking devout", "shadow creeper", "lesser mawlek", "mawlurk", "lightseed", "infected balloon", "boofly", "primal aspid", "hopper", "great hopper", "grub mimic", "hiveling", "hive soldier", "hive guardian", "husk hive", "spiny husk", "loodle", "mantis petra", "mantis traitor", "sharp baldur", "armoured squit", "battle obble", "shielded fool", "sturdy fool", "winged fool", "heavy fool", "death loodle", "volt twister", "pale lurker", "winged zoteling", "hopping zoteling", "volatile zoteling", "grimmkin novice", "grimmkin master", "grimmkin nightmare", "wingmould", "royal retainer", "kingsmould", "sibling", "void tendrils", "shade", "hunter's mark", "hunter mark", "seal of binding", "void idol", "weathered mask",
   // abbreviations
-  "gpz", "narts", "pv",
+  "gpz", "narts", "pv", "absrad", "nkg", "p1eb", "p2eb", "p3eb", "p4eb", "p5eb", "p1ab", "p2ab", "p3ab", "p4ab", "p5ab", "colo", "colo1", "colo 1", "colo2", "colo 2", "colo3", "colo 3",
 ];
 
