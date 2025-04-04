@@ -2,7 +2,7 @@ module.exports = [
   // normal spoilers
   "double jump", "wall jump", "super dash", "wallhop", "dash",
   // abilities
-  "mantis claw", "mantis claws", "isam's tear", "isma tear", "isma tears", "isma's tears", "shade cloak", "awoken dream nail", "dream nail", "monarch wings", "wings", "dreamgate", "dream gate", "mothwing cloak", "mothwing cloak", "mothwings cloak", "mothwings cloaks", "crystal heart", "crystal hearts", "world sense",
+  "mantis claw", "mantis claws", "isma's", "isma" "isam's tear", "isma tear", "isma tears", "isma's tears", "shade cloak", "awoken dream nail", "dream nail", "monarch wings", "wings", "dreamgate", "dream gate", "mothwing cloak", "mothwing cloak", "mothwings cloak", "mothwings cloaks", "crystal heart", "crystal hearts", "world sense", "crystal dash"
   // spells
   "focus", "double focus", "vengeful spirit", "vengeful", "desolate dive", "dive", "desolate", "howling wraiths", "wraiths", "shade soul", "shade", "descending dark", "descending", "abyss shriek", "shriek", "spells", "fireball",
   // nail/arts
@@ -22,6 +22,8 @@ module.exports = [
   // enemies, journal
   "crawlid", "vengefly", "gruzzer", "tiktik", "aspid hunter", "aspid mother", "aspid hatchling", "goam", "wandering husk", "husk hornhead", "leaping husk", "husk bully", "husk warrior", "husk guard", "entombed husk", "false knight", "maggot", "menderbug", "lifeseed", "mender bug", "baldur", "elder baldur", "mosscreep", "mossfly", "mosskin", "volatile mosskin", "fool eater", "squit", "obble", "gulka", "maskfly", "moss charger", "moss knight", "moss vagabond", "durandoo", "duranda", "aluba", "charged lumafly", "uoma", "ooma", "ambloom", "fungling", "fungoon", "sporg", "fungified husk", "shrumeling", "shrumal warrior", "shrumal ogre", "mantis youth", "mantis warrior", "husk sentry", "heavy sentry", "winged sentry", "lance sentry", "mistake", "folly", "soul twister", "husk dandy", "cowardly husk", "gluttonous husk", "gorgeous husk", "great husk sentry", "belfly", "pilflip", "hwurmp", "bluggsac", "flukefey", "flukemon", "flukemunga", "shardmite", "glimback", "crystal hunter", "crystal crawler", "husk miner", "crystallised husk", "furious vengefly", "volatile gruzzer", "violent husk", "slobbering husk", "dirtcarver", "carver hatcher", "garpede", "corpse creeper", "deepling", "deephunter", "little weaver", "stalking devout", "shadow creeper", "lesser mawlek", "mawlurk", "lightseed", "infected balloon", "boofly", "primal aspid", "hopper", "great hopper", "grub mimic", "hiveling", "hive soldier", "hive guardian", "husk hive", "spiny husk", "loodle", "mantis petra", "mantis traitor", "sharp baldur", "armoured squit", "battle obble", "shielded fool", "sturdy fool", "winged fool", "heavy fool", "death loodle", "volt twister", "pale lurker", "winged zoteling", "hopping zoteling", "volatile zoteling", "grimmkin novice", "grimmkin master", "grimmkin nightmare", "wingmould", "royal retainer", "kingsmould", "sibling", "void tendrils", "shade", "hunter's mark", "hunter mark", "seal of binding", "void idol", "weathered mask",
   // abbreviations
-  "gpz", "narts", "pv",
+  "gpz", "narts", "pv", "cdash", "ddark",
+  // miscellaneous
+  "true ending", "endings", "Embrace the Void", "Dream no more", "Sealed Siblings",
 ];
 
