@@ -68,7 +68,7 @@ module.exports = [
     
     
   // abbreviations
-  'ab', 'absrad', 'bv', 'catcher', 'cdash', 'cg', 'colo', 'colo 1', 'colo 2', 'colo 3', 'colo1', 'colo2', 'colo3', 'ddark', 'ddive', 'eater', 'failed champ', 'fc', 'fk', 'fury', 'gpz', 'hog', 'lk', 'mmc', 'mop', 'narts', 'nkg', 'ore', 'p1ab', 'p1eb', 'p2ab', 'p2eb', 'p3ab', 'p3eb', 'p4ab', 'p4eb', 'p5ab', 'p5eb', 'pop', 'pv', 'qs', 'r1', 'r2', 'r3', 'r4', 'r5', 'radhog', 'smith', 'spell', 'spells', 'sshadow', 'ssoul', 'thk', 'thorns', 'tl', 'tmg', 'vfk', 'wd', 'wk',
+  'ab', 'absrad', 'bv', 'catcher', 'cdash', 'cg', 'colo', 'colo 1', 'colo 2', 'colo 3', 'colo1', 'colo2', 'colo3', 'ddark', 'ddive', 'eater', 'failed champ', 'fc', 'fk', 'fury', 'gpz', 'hog', 'lk', 'mmc', 'mop', 'narts', 'nkg', 'ore', 'p1ab', 'p1eb', 'p2ab', 'p2eb', 'p3ab', 'p3eb', 'p4ab', 'p4eb', 'p5ab', 'p5eb', 'pop', 'pv', 'qs', 'r1', 'r2', 'r3', 'r4', 'r5', 'radhog', 'smith', 'spell', 'spells', 'sshadow', 'ssoul', 'thk', 'thorns', 'tl', 'tmg', 'vfk', 'wd', 'wk', 'abs rad',
     
     
     
